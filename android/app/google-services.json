@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "678796030008",
+    "project_id": "dental-ledger",
+    "storage_bucket": "dental-ledger.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678796030008:android:e56d6a070ed7b2c6aab6cd",
+        "android_client_info": {
+          "package_name": "com.dental_ledger.dental_therapist_income_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq1yKsJFbcFtjnYs-X2jk1lccFXDdHWek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
